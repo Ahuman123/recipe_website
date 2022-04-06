@@ -1,0 +1,40 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(0, 0%, 15%);
+}
+
+a, li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(0, 0%, 15%);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+li {
+    margin-left: 25px;
+}
+
+a:hover {
+    font-size: 1.1em;
+}
+
+a:active {
+    font-size: 1.2em;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.Topbar {
+    background-color: hsl(0, 0%, 90%);
+    border-bottom: solid;
+    border-color: hsl(0, 0%, 95%);
+    height: 45px;
+    margin-top: 0;
+    margin-left: 0;
+    padding-left: 50px;
+    padding-top: 7px;
+}
